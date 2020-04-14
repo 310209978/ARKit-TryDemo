@@ -47,3 +47,9 @@ Detecting Vertical Planes </br>
 Applying Force on Virtual Objects </br>
 Colliding with Virtual Objects </br>
 Detecting Collisions </br>
+
+
+Video :https://github.com/310209978/ARKit-TryDemo/blob/master/ARKit-TryDemo.mov </br>
+
+Reference：Beginning ARKit for iPhone and iPad Augmented Reality App Development for iOS by Wallace Wang 
+
